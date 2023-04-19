@@ -1,1 +1,1 @@
-# terraform-wp-demo
+# terraform wordpress deployment on using terraform cloud 
