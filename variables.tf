@@ -34,13 +34,13 @@ variable "app_environment" {
 variable "db_username" {
   type        = string
   description = "value"
-  default     = "admin"
+  default     = ""
 }
 
 variable "db_password" {
   type        = string
   description = "value"
-  default     = "password123"
+  default     = ""
 }
 
 
